@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_LOGO_URL" alt="HelpRush Logo" width="140"/>
+  <img src="https://github.com/helprush/.github/blob/main/assest/Group%203502cfdf4.png" alt="HelpRush Logo" width="140"/>
 
   # HelpRush
   🚀 **Trusted Experts for Any Job, Anywhere**  
